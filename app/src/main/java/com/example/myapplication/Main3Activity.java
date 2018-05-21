@@ -35,7 +35,7 @@ public class Main3Activity extends AppCompatActivity {
             public void onClick(View view) {
                 //check compile this
                 check = 1;
-                Toast.makeText(getApplicationContext(),"Comile Finish",Toast.LENGTH_SHORT).show();
+                Toast.makeText(getApplicationContext(),"Compile Finish",Toast.LENGTH_SHORT).show();
                 //수정 버튼 누르면 다시 0으로 고쳐줘야함
             }
         });
